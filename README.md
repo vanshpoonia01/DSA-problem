@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vanshpoonia01/two-sum/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/vanshpoonia01/two-sum/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/vanshpoonia01/two-sum/tree/master/0042-trapping-rain-water) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/vanshpoonia01/two-sum/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/vanshpoonia01/two-sum/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/vanshpoonia01/two-sum/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
@@ -51,4 +52,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vanshpoonia01/two-sum/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/vanshpoonia01/two-sum/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
