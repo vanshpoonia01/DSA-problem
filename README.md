@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vanshpoonia01/two-sum/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vanshpoonia01/two-sum/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/vanshpoonia01/two-sum/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/vanshpoonia01/two-sum/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/vanshpoonia01/two-sum/tree/master/0217-contains-duplicate) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vanshpoonia01/two-sum/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/vanshpoonia01/two-sum/tree/master/0485-max-consecutive-ones) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vanshpoonia01/two-sum/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/vanshpoonia01/two-sum/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/vanshpoonia01/two-sum/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/vanshpoonia01/two-sum/tree/master/0189-rotate-array) |
 ## Greedy
 |  |
 | ------- |
@@ -109,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vanshpoonia01/two-sum/tree/master/0169-majority-element) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/vanshpoonia01/two-sum/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
