@@ -103,11 +103,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/vanshpoonia01/two-sum/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/vanshpoonia01/two-sum/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vanshpoonia01/two-sum/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0686-repeated-string-match](https://github.com/vanshpoonia01/two-sum/tree/master/0686-repeated-string-match) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vanshpoonia01/two-sum/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## String Matching
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vanshpoonia01/two-sum/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0686-repeated-string-match](https://github.com/vanshpoonia01/two-sum/tree/master/0686-repeated-string-match) |
 ## Sliding Window
 |  |
 | ------- |
