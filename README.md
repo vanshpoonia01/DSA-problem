@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/vanshpoonia01/two-sum/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/vanshpoonia01/two-sum/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/vanshpoonia01/two-sum/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/vanshpoonia01/two-sum/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/vanshpoonia01/two-sum/tree/master/0567-permutation-in-string) |
 ## Greedy
 |  |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/vanshpoonia01/two-sum/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/vanshpoonia01/two-sum/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vanshpoonia01/two-sum/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0443-string-compression](https://github.com/vanshpoonia01/two-sum/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/vanshpoonia01/two-sum/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/vanshpoonia01/two-sum/tree/master/0657-robot-return-to-origin) |
 | [0686-repeated-string-match](https://github.com/vanshpoonia01/two-sum/tree/master/0686-repeated-string-match) |
