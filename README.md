@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vanshpoonia01/two-sum/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/vanshpoonia01/two-sum/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/vanshpoonia01/two-sum/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/vanshpoonia01/two-sum/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/vanshpoonia01/two-sum/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/vanshpoonia01/two-sum/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/vanshpoonia01/two-sum/tree/master/0344-reverse-string) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vanshpoonia01/two-sum/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vanshpoonia01/two-sum/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/vanshpoonia01/two-sum/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/vanshpoonia01/two-sum/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/vanshpoonia01/two-sum/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/vanshpoonia01/two-sum/tree/master/0344-reverse-string) |
