@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/vanshpoonia01/two-sum/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/vanshpoonia01/two-sum/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/vanshpoonia01/two-sum/tree/master/0567-permutation-in-string) |
+| [0876-middle-of-the-linked-list](https://github.com/vanshpoonia01/two-sum/tree/master/0876-middle-of-the-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -214,4 +215,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/vanshpoonia01/two-sum/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0876-middle-of-the-linked-list](https://github.com/vanshpoonia01/two-sum/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
