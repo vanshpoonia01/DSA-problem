@@ -15,14 +15,14 @@ public:
         if(head==NULL ||head->next==NULL)return NULL;
     
         int c=0;
-        if(head->next->next==NULL) {
-            if(n==2){
-                return head->next;
-            }else{
-                head->next= NULL;
-                return head;
-            }
-        }
+        // if(head->next->next==NULL) {
+        //     if(n==2){
+        //         return head->next;
+        //     }else{
+        //         head->next= NULL;
+        //         return head;
+        //     }
+        // }
         while(temp!=NULL){
             c++;
             temp=temp->next;
