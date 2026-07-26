@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/vanshpoonia01/two-sum/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/vanshpoonia01/two-sum/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/vanshpoonia01/two-sum/tree/master/0234-palindrome-linked-list) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vanshpoonia01/two-sum/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/vanshpoonia01/two-sum/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Monotonic Stack
 |  |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/vanshpoonia01/two-sum/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/vanshpoonia01/two-sum/tree/master/0680-valid-palindrome-ii) |
 | [0686-repeated-string-match](https://github.com/vanshpoonia01/two-sum/tree/master/0686-repeated-string-match) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vanshpoonia01/two-sum/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vanshpoonia01/two-sum/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/vanshpoonia01/two-sum/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/vanshpoonia01/two-sum/tree/master/1910-remove-all-occurrences-of-a-substring) |
