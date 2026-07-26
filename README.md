@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/vanshpoonia01/two-sum/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vanshpoonia01/two-sum/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/vanshpoonia01/two-sum/tree/master/0443-string-compression) |
+| [0459-repeated-substring-pattern](https://github.com/vanshpoonia01/two-sum/tree/master/0459-repeated-substring-pattern) |
 | [0567-permutation-in-string](https://github.com/vanshpoonia01/two-sum/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/vanshpoonia01/two-sum/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/vanshpoonia01/two-sum/tree/master/0680-valid-palindrome-ii) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vanshpoonia01/two-sum/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/vanshpoonia01/two-sum/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/vanshpoonia01/two-sum/tree/master/0686-repeated-string-match) |
 ## Sliding Window
 |  |
