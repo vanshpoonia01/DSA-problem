@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/vanshpoonia01/two-sum/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/vanshpoonia01/two-sum/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/vanshpoonia01/two-sum/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/vanshpoonia01/two-sum/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/vanshpoonia01/two-sum/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vanshpoonia01/two-sum/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1470-shuffle-the-array](https://github.com/vanshpoonia01/two-sum/tree/master/1470-shuffle-the-array) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/vanshpoonia01/two-sum/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/vanshpoonia01/two-sum/tree/master/0567-permutation-in-string) |
 | [0791-custom-sort-string](https://github.com/vanshpoonia01/two-sum/tree/master/0791-custom-sort-string) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/vanshpoonia01/two-sum/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/vanshpoonia01/two-sum/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Prefix Sum
 |  |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/vanshpoonia01/two-sum/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vanshpoonia01/two-sum/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/vanshpoonia01/two-sum/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/vanshpoonia01/two-sum/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1480-running-sum-of-1d-array](https://github.com/vanshpoonia01/two-sum/tree/master/1480-running-sum-of-1d-array) |
 ## Sorting
 |  |
