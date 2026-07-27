@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/vanshpoonia01/two-sum/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/vanshpoonia01/two-sum/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vanshpoonia01/two-sum/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vanshpoonia01/two-sum/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/vanshpoonia01/two-sum/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/vanshpoonia01/two-sum/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/vanshpoonia01/two-sum/tree/master/1920-build-array-from-permutation) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/vanshpoonia01/two-sum/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vanshpoonia01/two-sum/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0791-custom-sort-string](https://github.com/vanshpoonia01/two-sum/tree/master/0791-custom-sort-string) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vanshpoonia01/two-sum/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -316,4 +318,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/vanshpoonia01/two-sum/tree/master/0918-maximum-sum-circular-subarray) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vanshpoonia01/two-sum/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
