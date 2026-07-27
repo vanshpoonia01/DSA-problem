@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/vanshpoonia01/two-sum/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/vanshpoonia01/two-sum/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/vanshpoonia01/two-sum/tree/master/0724-find-pivot-index) |
+| [0918-maximum-sum-circular-subarray](https://github.com/vanshpoonia01/two-sum/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/vanshpoonia01/two-sum/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/vanshpoonia01/two-sum/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vanshpoonia01/two-sum/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vanshpoonia01/two-sum/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/vanshpoonia01/two-sum/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/vanshpoonia01/two-sum/tree/master/0509-fibonacci-number) |
+| [0918-maximum-sum-circular-subarray](https://github.com/vanshpoonia01/two-sum/tree/master/0918-maximum-sum-circular-subarray) |
 ## Stack
 |  |
 | ------- |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/vanshpoonia01/two-sum/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/vanshpoonia01/two-sum/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/vanshpoonia01/two-sum/tree/master/0169-majority-element) |
+| [0918-maximum-sum-circular-subarray](https://github.com/vanshpoonia01/two-sum/tree/master/0918-maximum-sum-circular-subarray) |
 ## Counting
 |  |
 | ------- |
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/vanshpoonia01/two-sum/tree/master/0387-first-unique-character-in-a-string) |
+| [0918-maximum-sum-circular-subarray](https://github.com/vanshpoonia01/two-sum/tree/master/0918-maximum-sum-circular-subarray) |
 ## Trie
 |  |
 | ------- |
@@ -308,4 +312,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/vanshpoonia01/two-sum/tree/master/0389-find-the-difference) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/vanshpoonia01/two-sum/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
