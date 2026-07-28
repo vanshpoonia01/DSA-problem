@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/vanshpoonia01/two-sum/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vanshpoonia01/two-sum/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/vanshpoonia01/two-sum/tree/master/0643-maximum-average-subarray-i) |
+| [0665-non-decreasing-array](https://github.com/vanshpoonia01/two-sum/tree/master/0665-non-decreasing-array) |
 | [0704-binary-search](https://github.com/vanshpoonia01/two-sum/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/vanshpoonia01/two-sum/tree/master/0724-find-pivot-index) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vanshpoonia01/two-sum/tree/master/0918-maximum-sum-circular-subarray) |
