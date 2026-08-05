@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/vanshpoonia01/two-sum/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/vanshpoonia01/two-sum/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/vanshpoonia01/DSA-problem/tree/master/0877-stone-game) |
+| [0904-fruit-into-baskets](https://github.com/vanshpoonia01/DSA-problem/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vanshpoonia01/two-sum/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/vanshpoonia01/two-sum/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/vanshpoonia01/two-sum/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/vanshpoonia01/two-sum/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/vanshpoonia01/two-sum/tree/master/0567-permutation-in-string) |
 | [0791-custom-sort-string](https://github.com/vanshpoonia01/two-sum/tree/master/0791-custom-sort-string) |
+| [0904-fruit-into-baskets](https://github.com/vanshpoonia01/DSA-problem/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/vanshpoonia01/two-sum/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/vanshpoonia01/two-sum/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Prefix Sum
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/vanshpoonia01/two-sum/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/vanshpoonia01/two-sum/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/vanshpoonia01/two-sum/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/vanshpoonia01/DSA-problem/tree/master/0904-fruit-into-baskets) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vanshpoonia01/two-sum/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/vanshpoonia01/two-sum/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Simulation
