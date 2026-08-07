@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vanshpoonia01/two-sum/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/vanshpoonia01/two-sum/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/vanshpoonia01/two-sum/tree/master/1480-running-sum-of-1d-array) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/vanshpoonia01/DSA-problem/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1920-build-array-from-permutation](https://github.com/vanshpoonia01/two-sum/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/vanshpoonia01/two-sum/tree/master/1929-concatenation-of-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vanshpoonia01/DSA-problem/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/vanshpoonia01/two-sum/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/vanshpoonia01/DSA-problem/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vanshpoonia01/two-sum/tree/master/0918-maximum-sum-circular-subarray) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/vanshpoonia01/DSA-problem/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Stack
 |  |
 | ------- |
