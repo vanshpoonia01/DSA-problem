@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/vanshpoonia01/two-sum/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vanshpoonia01/two-sum/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/vanshpoonia01/two-sum/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/vanshpoonia01/DSA-problem/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/vanshpoonia01/two-sum/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/vanshpoonia01/two-sum/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vanshpoonia01/two-sum/tree/master/0345-reverse-vowels-of-a-string) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/vanshpoonia01/two-sum/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vanshpoonia01/two-sum/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/vanshpoonia01/two-sum/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/vanshpoonia01/DSA-problem/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/vanshpoonia01/two-sum/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/vanshpoonia01/two-sum/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vanshpoonia01/two-sum/tree/master/0242-valid-anagram) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/vanshpoonia01/two-sum/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/vanshpoonia01/two-sum/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/vanshpoonia01/DSA-problem/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/vanshpoonia01/two-sum/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vanshpoonia01/DSA-problem/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/vanshpoonia01/DSA-problem/tree/master/0877-stone-game) |
@@ -433,4 +436,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vanshpoonia01/DSA-problem/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/vanshpoonia01/DSA-problem/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
