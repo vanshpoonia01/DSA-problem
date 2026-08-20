@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/vanshpoonia01/two-sum/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/vanshpoonia01/two-sum/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vanshpoonia01/DSA-problem/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/vanshpoonia01/DSA-problem/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vanshpoonia01/DSA-problem/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vanshpoonia01/DSA-problem/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vanshpoonia01/DSA-problem/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/vanshpoonia01/two-sum/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1331-rank-transform-of-an-array](https://github.com/vanshpoonia01/DSA-problem/tree/master/1331-rank-transform-of-an-array) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/vanshpoonia01/two-sum/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/vanshpoonia01/DSA-problem/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vanshpoonia01/DSA-problem/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vanshpoonia01/DSA-problem/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vanshpoonia01/DSA-problem/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/vanshpoonia01/two-sum/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/vanshpoonia01/two-sum/tree/master/0387-first-unique-character-in-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/vanshpoonia01/two-sum/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/vanshpoonia01/DSA-problem/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Math
 |  |
 | ------- |
