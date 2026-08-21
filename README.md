@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/vanshpoonia01/DSA-problem/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vanshpoonia01/two-sum/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1903-largest-odd-number-in-string](https://github.com/vanshpoonia01/two-sum/tree/master/1903-largest-odd-number-in-string) |
+| [1925-count-square-sum-triples](https://github.com/vanshpoonia01/DSA-problem/tree/master/1925-count-square-sum-triples) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vanshpoonia01/DSA-problem/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/vanshpoonia01/two-sum/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Queue
@@ -440,4 +441,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/vanshpoonia01/DSA-problem/tree/master/0202-happy-number) |
+## Enumeration
+|  |
+| ------- |
+| [1925-count-square-sum-triples](https://github.com/vanshpoonia01/DSA-problem/tree/master/1925-count-square-sum-triples) |
 <!---LeetCode Topics End-->
