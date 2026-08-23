@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/vanshpoonia01/two-sum/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vanshpoonia01/two-sum/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0680-valid-palindrome-ii](https://github.com/vanshpoonia01/two-sum/tree/master/0680-valid-palindrome-ii) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/vanshpoonia01/DSA-problem/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/vanshpoonia01/two-sum/tree/master/1903-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/vanshpoonia01/two-sum/tree/master/0791-custom-sort-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vanshpoonia01/two-sum/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/vanshpoonia01/DSA-problem/tree/master/1189-maximum-number-of-balloons) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/vanshpoonia01/DSA-problem/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vanshpoonia01/two-sum/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/vanshpoonia01/two-sum/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/vanshpoonia01/two-sum/tree/master/1903-largest-odd-number-in-string) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/vanshpoonia01/two-sum/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/vanshpoonia01/two-sum/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/vanshpoonia01/DSA-problem/tree/master/1189-maximum-number-of-balloons) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/vanshpoonia01/DSA-problem/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/vanshpoonia01/two-sum/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/vanshpoonia01/DSA-problem/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/vanshpoonia01/DSA-problem/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
