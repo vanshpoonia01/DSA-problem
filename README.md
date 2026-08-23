@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vanshpoonia01/DSA-problem/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vanshpoonia01/DSA-problem/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vanshpoonia01/DSA-problem/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/vanshpoonia01/DSA-problem/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3731-find-missing-elements](https://github.com/vanshpoonia01/DSA-problem/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
 |  |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/vanshpoonia01/DSA-problem/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/vanshpoonia01/DSA-problem/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vanshpoonia01/DSA-problem/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/vanshpoonia01/DSA-problem/tree/master/3120-count-the-number-of-special-characters-i) |
 ## String Matching
 |  |
 | ------- |
