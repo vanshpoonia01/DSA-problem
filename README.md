@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/vanshpoonia01/two-sum/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/vanshpoonia01/two-sum/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/vanshpoonia01/DSA-problem/tree/master/0202-happy-number) |
+| [0326-power-of-three](https://github.com/vanshpoonia01/DSA-problem/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/vanshpoonia01/two-sum/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vanshpoonia01/DSA-problem/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/vanshpoonia01/DSA-problem/tree/master/0877-stone-game) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/vanshpoonia01/two-sum/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/vanshpoonia01/two-sum/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/vanshpoonia01/two-sum/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/vanshpoonia01/DSA-problem/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/vanshpoonia01/two-sum/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
