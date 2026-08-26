@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/vanshpoonia01/two-sum/tree/master/0485-max-consecutive-ones) |
 | [0525-contiguous-array](https://github.com/vanshpoonia01/two-sum/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vanshpoonia01/two-sum/tree/master/0560-subarray-sum-equals-k) |
+| [0605-can-place-flowers](https://github.com/vanshpoonia01/DSA-problem/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vanshpoonia01/DSA-problem/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/vanshpoonia01/two-sum/tree/master/0643-maximum-average-subarray-i) |
 | [0665-non-decreasing-array](https://github.com/vanshpoonia01/two-sum/tree/master/0665-non-decreasing-array) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/vanshpoonia01/two-sum/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vanshpoonia01/two-sum/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0605-can-place-flowers](https://github.com/vanshpoonia01/DSA-problem/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/vanshpoonia01/two-sum/tree/master/0680-valid-palindrome-ii) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/vanshpoonia01/DSA-problem/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/vanshpoonia01/two-sum/tree/master/1903-largest-odd-number-in-string) |
