@@ -500,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1251-average-selling-price](https://github.com/vanshpoonia01/DSA-problem/tree/master/1251-average-selling-price) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/vanshpoonia01/DSA-problem/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/vanshpoonia01/DSA-problem/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
+| [1667-fix-names-in-a-table](https://github.com/vanshpoonia01/DSA-problem/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/vanshpoonia01/DSA-problem/tree/master/1683-invalid-tweets) |
 | [1729-find-followers-count](https://github.com/vanshpoonia01/DSA-problem/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/vanshpoonia01/DSA-problem/tree/master/1757-recyclable-and-low-fat-products) |
