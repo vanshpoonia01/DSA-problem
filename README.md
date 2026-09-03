@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/vanshpoonia01/DSA-problem/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/vanshpoonia01/two-sum/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/vanshpoonia01/DSA-problem/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1248-count-number-of-nice-subarrays](https://github.com/vanshpoonia01/DSA-problem/tree/master/1248-count-number-of-nice-subarrays) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/vanshpoonia01/two-sum/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vanshpoonia01/two-sum/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1331-rank-transform-of-an-array](https://github.com/vanshpoonia01/DSA-problem/tree/master/1331-rank-transform-of-an-array) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/vanshpoonia01/DSA-problem/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/vanshpoonia01/two-sum/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/vanshpoonia01/DSA-problem/tree/master/1189-maximum-number-of-balloons) |
+| [1248-count-number-of-nice-subarrays](https://github.com/vanshpoonia01/DSA-problem/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/vanshpoonia01/DSA-problem/tree/master/1331-rank-transform-of-an-array) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/vanshpoonia01/two-sum/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/vanshpoonia01/DSA-problem/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/vanshpoonia01/two-sum/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/vanshpoonia01/DSA-problem/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/vanshpoonia01/two-sum/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1248-count-number-of-nice-subarrays](https://github.com/vanshpoonia01/DSA-problem/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/vanshpoonia01/two-sum/tree/master/1480-running-sum-of-1d-array) |
 | [2574-left-and-right-sum-differences](https://github.com/vanshpoonia01/DSA-problem/tree/master/2574-left-and-right-sum-differences) |
 ## Sorting
@@ -279,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/vanshpoonia01/DSA-problem/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/vanshpoonia01/DSA-problem/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/vanshpoonia01/DSA-problem/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/vanshpoonia01/DSA-problem/tree/master/1248-count-number-of-nice-subarrays) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vanshpoonia01/two-sum/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/vanshpoonia01/two-sum/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vanshpoonia01/DSA-problem/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -322,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/vanshpoonia01/two-sum/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vanshpoonia01/DSA-problem/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/vanshpoonia01/DSA-problem/tree/master/0877-stone-game) |
+| [1248-count-number-of-nice-subarrays](https://github.com/vanshpoonia01/DSA-problem/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vanshpoonia01/two-sum/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1903-largest-odd-number-in-string](https://github.com/vanshpoonia01/two-sum/tree/master/1903-largest-odd-number-in-string) |
 | [1925-count-square-sum-triples](https://github.com/vanshpoonia01/DSA-problem/tree/master/1925-count-square-sum-triples) |
