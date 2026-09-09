@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/vanshpoonia01/two-sum/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/vanshpoonia01/two-sum/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/vanshpoonia01/two-sum/tree/master/0459-repeated-substring-pattern) |
+| [0551-student-attendance-record-i](https://github.com/vanshpoonia01/DSA-problem/tree/master/0551-student-attendance-record-i) |
 | [0567-permutation-in-string](https://github.com/vanshpoonia01/two-sum/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/vanshpoonia01/two-sum/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/vanshpoonia01/two-sum/tree/master/0680-valid-palindrome-ii) |
