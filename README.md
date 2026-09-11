@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/vanshpoonia01/two-sum/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/vanshpoonia01/two-sum/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/vanshpoonia01/two-sum/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/vanshpoonia01/DSA-problem/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/vanshpoonia01/two-sum/tree/master/0876-middle-of-the-linked-list) |
 | [2000-reverse-prefix-of-word](https://github.com/vanshpoonia01/DSA-problem/tree/master/2000-reverse-prefix-of-word) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/vanshpoonia01/two-sum/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/vanshpoonia01/two-sum/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/vanshpoonia01/two-sum/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/vanshpoonia01/two-sum/tree/master/0234-palindrome-linked-list) |
+| [0844-backspace-string-compare](https://github.com/vanshpoonia01/DSA-problem/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vanshpoonia01/two-sum/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/vanshpoonia01/two-sum/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2000-reverse-prefix-of-word](https://github.com/vanshpoonia01/DSA-problem/tree/master/2000-reverse-prefix-of-word) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/vanshpoonia01/two-sum/tree/master/0680-valid-palindrome-ii) |
 | [0686-repeated-string-match](https://github.com/vanshpoonia01/two-sum/tree/master/0686-repeated-string-match) |
 | [0791-custom-sort-string](https://github.com/vanshpoonia01/two-sum/tree/master/0791-custom-sort-string) |
+| [0844-backspace-string-compare](https://github.com/vanshpoonia01/DSA-problem/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vanshpoonia01/two-sum/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/vanshpoonia01/DSA-problem/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/vanshpoonia01/DSA-problem/tree/master/1221-split-a-string-in-balanced-strings) |
@@ -293,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/vanshpoonia01/two-sum/tree/master/0657-robot-return-to-origin) |
+| [0844-backspace-string-compare](https://github.com/vanshpoonia01/DSA-problem/tree/master/0844-backspace-string-compare) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/vanshpoonia01/two-sum/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1920-build-array-from-permutation](https://github.com/vanshpoonia01/two-sum/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/vanshpoonia01/two-sum/tree/master/1929-concatenation-of-array) |
