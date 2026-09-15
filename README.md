@@ -330,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/vanshpoonia01/two-sum/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/vanshpoonia01/two-sum/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/vanshpoonia01/DSA-problem/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/vanshpoonia01/DSA-problem/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/vanshpoonia01/DSA-problem/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/vanshpoonia01/DSA-problem/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/vanshpoonia01/two-sum/tree/master/0509-fibonacci-number) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/vanshpoonia01/two-sum/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/vanshpoonia01/two-sum/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/vanshpoonia01/two-sum/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/vanshpoonia01/DSA-problem/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/vanshpoonia01/two-sum/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/vanshpoonia01/DSA-problem/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/vanshpoonia01/two-sum/tree/master/0509-fibonacci-number) |
@@ -454,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/vanshpoonia01/DSA-problem/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/vanshpoonia01/two-sum/tree/master/0389-find-the-difference) |
 ## Monotonic Queue
 |  |
