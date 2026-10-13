@@ -5,22 +5,21 @@ public:
         reverse(s.begin(),s.end());
         string ans = "";
         string word ="";
-     for(int i=0;i<c;i++){
-       if(s[i]!=' '){
-        word +=s[i];
-       }
-       if(s[i]==' '&&word!=""){
-        reverse(word.begin(),word.end());
-        ans+=word + ' ';
-        word = "";
-       }
-     }
-     if(word!=""){
-        reverse(word.begin(),word.end());
-        ans+=word;
-     }
-     if(ans.back()==' ')
-    ans.pop_back();
-     return ans;
+          for(int i=0;i<s.size();i++){
+            if(s[i]!=' '){
+                word+=s[i];
+            }else if(word!=""){
+                reverse(word.begin(),word.end());
+                ans+=word+" ";
+                word = "";
+            }
+          }
+          if(word!=""){
+             reverse(word.begin(),word.end());
+                ans+=word;
+          }else{
+            ans.pop_back();
+          }
+          return ans;
     }
 };
